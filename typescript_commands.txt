@@ -1,0 +1,11 @@
+TypeScript is a strongly typed programming language that builds on JavaScript and
+build by micosoft
+
+1. sudo npm i -g typescript // install typescript globally
+2. tsc -v // check version
+3. save file extension id .ts
+4. tsc <file_name> // compile, when you compile js file also created
+5. tsc --init // initialize tsconfig.json like package.json (npm init -y) and 
+    tsconfig.json file contains all the information of your project
+
+6. tsc --watch <file_name> // starting compilation in watch mode
